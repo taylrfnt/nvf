@@ -293,14 +293,14 @@
       "type": "Git",
       "repository": {
         "type": "GitHub",
-        "owner": "gorbit99",
+        "owner": "taylrfnt",
         "repo": "codewindow.nvim"
       },
       "branch": "master",
       "submodules": false,
-      "revision": "a8e175043ce3baaa89e0a6b5171bcd920aab3dad",
-      "url": "https://github.com/gorbit99/codewindow.nvim/archive/a8e175043ce3baaa89e0a6b5171bcd920aab3dad.tar.gz",
-      "hash": "12nsdynpym15fl9qwjzlzhxr2mbpa0l6sp2r1rrc300jr59q0gkr"
+      "revision": "f84377ed9dc9dc8027f494046e0c409537e4565c",
+      "url": "https://github.com/taylrfnt/codewindow.nvim/archive/f84377ed9dc9dc8027f494046e0c409537e4565c.tar.gz",
+      "hash": "06rvk8cr7j9zaah0zarqvfzd6lvhnh9a9n3jlc9v2vi3anqnxiys"
     },
     "colorful-menu-nvim": {
       "type": "Git",
