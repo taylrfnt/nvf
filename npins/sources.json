@@ -300,7 +300,7 @@
       "submodules": false,
       "revision": "f84377ed9dc9dc8027f494046e0c409537e4565c",
       "url": "https://github.com/taylrfnt/codewindow.nvim/archive/f84377ed9dc9dc8027f494046e0c409537e4565c.tar.gz",
-      "hash": "sha256-2sdusVUjbrETo3LYpBK0cFPTvts4qw+gUj/JkxmaOxs="
+      "hash": "sha256-D/CfQGrdNmVuXYGRlHWa/uzvam76UQRrBYyYFSFmFIE="
     },
     "colorful-menu-nvim": {
       "type": "Git",
@@ -2773,5 +2773,5 @@
       "hash": "sha256-sMCaa1BO99qI1vG07UEgxtk1UJvgJcGvKp24VQUx1KU="
     }
   },
-  "version": 7
+  "version": 5
 }
